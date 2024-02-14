@@ -14,10 +14,12 @@
   </i>
 </h2>
 <div align="center">
-  <img src="https://github.com/C-Alexis4414/images/searching.gif" />
+  <img style="border-radius:15px" src="images/searching.gif" />
   <hr />
   <p>
-    De formation BTS pour dessinateur projeteur FTTH (fibre optique)
+    Originaire de Normandie, je suis venu en Loire-Atlantique en 2016 pour suivre une formation BTS pour dessinateur projeteur FTTH (Fiber To The Home). Ensuite, j'ai travaillé pendant 7 ans sur les études de conception dans les domaines des SIG (systèmes d'informations géographiques) et du GC (génie civil) pour les télécommunications en fibre optique.
+    <br />
+    Déjà passionné par l'univers de l'IT (dans la découverte du fonctionnement et de la composition de réseaux, ainsi que de PC), et grâce à des contacts parmis des collègues et des amis développeurs, j'ai eu envie d'en savoir plus sur le monde de la tech. Je me suis alors mis en place une veille technique et j'ai finalement entrepris de suivre un nouveau cursus d'apprentissage, car ce qui me plaît dans la programmation, c'est de mettre en place des solutions face à des problèmes et d'apprendre continuellement sur de nouvelles technologies, méthodes et environnements de travail.
   </p>
 </div>
 <div align="center">
@@ -27,4 +29,6 @@
 </div>
 
 <h2 align="center">Où me trouver sur les réseaux</h2>
-<img align="center" width="150" height="150" src="https://github.com/C-Alexis4414/images/octoalexis.png" />
+<div align="center">
+  <img width="150" height="150" src="images/octoalexis.png" />
+</div>
