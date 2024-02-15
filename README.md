@@ -52,45 +52,45 @@
       Mes stacks
   </i>
 </h2>
-<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap"> 
+<p align="center" style="display:flex; justify-content:space-around"> 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs"/> 
   </a>
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs"/> 
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"/> 
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/> 
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring"/> 
   </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="spring"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="spring"/> 
   </a>
   <a href="https://html5.org/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"/> 
   </a>
   <a href="https://css3.com/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss"/> 
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql"/> 
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-    <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite"/> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite"/> 
   </a>
 </p>
 <h2 align="center">
@@ -111,4 +111,9 @@
 </h2>
 <p align="center">
   <img width="150" height="150" src="images/octoalexis.png" />
+</p>
+<p align="center" style="display:flex; justify-content:space-around"> 
+  <a href="https://www.linkedin.com/in/alexis-chentre/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
+  </a>
 </p>
