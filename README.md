@@ -13,8 +13,8 @@
       D'où viens-je ?
   </i>
 </h2>
-<p style="float:left">
-  <img style="border-radius:15px; margin:0 10px -10px 0; width:100px; height:100px" src="images/searching.gif" />
+<p align="center">
+  <img style="width:100px; height:100px" src="images/searching.gif" />
 </p>
 <p style="text-align:justify">
   Originaire de Normandie, je suis venu en Loire-Atlantique en 2016 pour suivre une formation BTS pour dessinateur projeteur FTTH (Fiber To The Home). Ensuite, j'ai travaillé pendant 7 ans sur les études de conception dans les domaines des SIG (systèmes d'informations géographiques) et du GC (génie civil) pour les télécommunications en fibre optique.
@@ -26,8 +26,8 @@
       Où vais-je ?
   </i>
 </h2>
-<p style="float:left; width:auto; height:50px"">
-  <img style="margin:0 25px -10px 0; width:100%; height:100%; object-fit:contain" src="images/target.gif" />
+<p align="center">
+  <img style="width:auto; height:50px" src="images/target.gif" />
 </p>
 <p style="text-align:justify">
   Actuellement en formation de concepteur développeur d'applications, je passerais le titre RNCP de niveau 6 (équivalent Licence, Bac+3) en 2025 pour valider ce parcours de reconversion.
@@ -41,10 +41,10 @@
       Mobilité
   </i>
 </h2>
-<p style="float:left; width:auto; height:50px">
-  <img style="margin-right:25px; width:100%; height:100%; object-fit:contain" src="images/localization.gif" />
+<p align="center">
+  <img style="width:auto; height:50px" src="images/localization.gif" />
 </p>
-<p style="text-align:justify; margin-bottom:50px; line-height:45px">
+<p style="text-align:justify">
   J'habite actuellement à Plessé en Loire-Atlantique, et je suis ouvert à toute opportunité sur le reste de la France.
 </p>
 <h2 align="center">
@@ -52,7 +52,7 @@
       Mes stacks
   </i>
 </h2>
-<p align="center" style="display:grid; grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr"> 
+<p align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap"> 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img style="width:40px; height:40px; padding:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> 
   </a>
@@ -98,14 +98,17 @@
       Mes statistiques
   </i>
 </h2>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=C-Alexis4414&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Alexis4414&layout=compact&theme=dark&hide_border=true" />
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=C-Alexis4414&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" /> 
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Alexis4414&layout=compact&theme=dark&hide_border=true" />
+</p>
 <h2 align="center">
   <i>
     Où me trouver sur les réseaux
   </i>
 </h2>
-<p style="float:right">
+<p align="center">
   <img width="150" height="150" src="images/octoalexis.png" />
 </p>
