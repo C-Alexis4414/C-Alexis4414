@@ -104,6 +104,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Alexis4414&layout=compact&theme=dark&hide_border=true" />
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alexis_Chntr" />
+</p>
 <h2 align="center">
   <i>
     Où me trouver sur les réseaux
@@ -112,8 +115,19 @@
 <p align="center">
   <img width="150" height="150" src="images/octoalexis.png" />
 </p>
-<p align="center" style="display:flex; justify-content:space-around"> 
+<p align="center" style="display:flex; justify-content:center; align-items:center"> 
   <a href="https://www.linkedin.com/in/alexis-chentre/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> 
+  </a>
+</p>
+<h4 align="center">
+    📆 Ou prenez rendez-vous pour me rencontrer en visio par ici (un seul invité !)
+</h4>
+<p align="center">
+  <img style="width:40px; height:40px" src="images/arrow-down-green.gif">
+</p>
+<p align="center">
+  <a href="https://calendly.com/chentre-alexis/meeting">
+    <img style="height:40px; width:auto" src="images/Calendly-logo.png" alt="calendly"/>
   </a>
 </p>
