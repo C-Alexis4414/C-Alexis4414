@@ -128,6 +128,6 @@
 </p>
 <p align="center">
   <a href="https://calendly.com/chentre-alexis/meeting">
-    <img style="height:40px; width:auto" src="images/Calendly-logo.png" alt="calendly"/>
+    <img style="height:40px; width:auto" src="images/Calendly-Logo.png" alt="calendly"/>
   </a>
 </p>
