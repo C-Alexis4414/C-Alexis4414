@@ -54,6 +54,12 @@
 </h2>
 <p align="center" style="display:flex; justify-content:space-around"> 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot-net"/> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img style="width:40px; height:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
